@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682028278660",
+    "project_id": "appcascafirebase",
+    "storage_bucket": "appcascafirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682028278660:android:84922d507811be8d2eb3d1",
+        "android_client_info": {
+          "package_name": "com.example.appcascafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvYvSAYa9aqSBYr-vuW2gU_WkH5EmrWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
